@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91.704" height="28" viewBox="0 0 91.704 28">
+  <g id="Untitled-1" transform="translate(-3 -17)">
+    <rect id="Rectangle_435" data-name="Rectangle 435" width="41" height="28" transform="translate(3 17)"
+          fill="#ee5c43"/>
+    <text id="Mihai" transform="translate(48.704 36.801)" fill="#ee5c43" font-size="16"
+          font-family="Montserrat-Bold, Montserrat" font-weight="700">
+      <tspan x="0" y="0">Mihai</tspan>
+    </text>
+    <text id="M_" data-name="M !=" transform="translate(6.475 36.467)" fill="#fff" font-size="16"
+          font-family="Montserrat-Bold, Montserrat" font-weight="700">
+      <tspan x="0" y="0">M !=</tspan>
+    </text>
+  </g>
+</svg>
